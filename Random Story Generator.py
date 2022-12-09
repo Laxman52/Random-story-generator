@@ -6,7 +6,7 @@ names = [' Abhay',' Amrit',' Adil',' Ishaan',' Virat',' Anil',' Sahil',' Nikhil'
 
 places =[' Mumbai',' Kolkata',' Lucknow',' Vijaywada',' Indore',' Patna',' Ranchi',' Ayodhya',' Jalandhar',' Delhi',' Ludhiana',' Banglore', ]
 
-body = [' went a grand building and took a photograph',' met very famous celebrity ',' went to the most beautiful spot where he wanted to visit eagerly ',' Collected stamps & old currencies',' learnt their tradition dance',' celebrated New Year',' tasted their local foods']
+body = [' went to a building a click many photographs',' met very famous celebrity ',' went to the most beautiful spot where he wanted to visit eagerly ',' Collected stamps & old currencies',' learnt their tradition dance',' celebrated New Year',' tasted their local foods']
 
 roles = ['a college student','a youtuber',' a vlogger','a school student','a normie guy','a retired army officer','a professer',' a LPU verto',' a adventurous guy']
 
